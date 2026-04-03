@@ -35,3 +35,15 @@ Declarative UI framework for building web apps, dashboards, and internal tools e
 The most widely adopted Python ORM with both high-level ORM and low-level Core interfaces. Full async support since 2.0 via `asyncpg`/`aiomysql`.
 
 [Details →](libs/sqlalchemy.md)
+
+---
+
+## Caching
+
+### [aiocache](https://github.com/aio-libs/aiocache) 🟢
+
+> Async cache manager · `cache` `async` `redis`
+
+Asyncio-native caching library with multiple backends (memory, Redis, Memcached), decorator-based caching, pluggable serializers, and a plugin system.
+
+[Details →](libs/aiocache.md)
