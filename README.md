@@ -16,6 +16,14 @@ High-performance API framework with automatic validation, serialization, and Ope
 
 [Details →](libs/fastapi.md)
 
+### [NiceGUI](https://nicegui.io/) 🟢
+
+> Python-based web UI framework · `web` `ui` `dashboard`
+
+Declarative UI framework for building web apps, dashboards, and internal tools entirely in Python. Built on FastAPI + Vue.js/Quasar, with native desktop mode and automatic data binding.
+
+[Details →](libs/nicegui.md)
+
 ---
 
 ## Database
